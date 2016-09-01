@@ -1,12 +1,12 @@
 # Lab 02 -- Chapter 01
 
 ## Define the followint terms:
-* object,
-* class,
-* instance,
-* method,
-* signature,
-* parameter,
+* object,-an object is an instance of class, composed of state and behavior  
+* class,-  a class is the blueprint from which individual objects are created.
+* instance,- an instance is a class
+* method,- a subprogram that acts on data
+* signature,-the method name and the number and type of its parameters.
+* parameter,-the "type" of data that a method can receive
 * type,
 * state,
 * source code,
